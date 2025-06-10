@@ -54,6 +54,10 @@ Instantly see country flags for your selected currencies for quick identificatio
 
 3) Public Exchange Rate API: Provides up-to-date currency rates.
 <br><br><br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bdba8870-b868-4279-9baa-be35675e34d6" alt="Currency Converter Screenshot 1" width="350" style="border-radius: 12px; border: 2px solid #e1e4e8; margin: 8px;">
+  <img src="https://github.com/user-attachments/assets/bd567bbd-b2ad-4eef-afec-d0fe050d4628" alt="Currency Converter Screenshot 2" width="380" style="border-radius: 12px; border: 2px solid #e1e4e8; margin: 8px;">
+</p>
 
 🌍 Use Cases
 1) Travelers needing quick currency conversions abroad.
@@ -66,14 +70,5 @@ Instantly see country flags for your selected currencies for quick identificatio
 
 4) Anyone curious about global currency values!
 
-<br><br>
-📦 Get Started
-Clone the repo, open index.html in your browser, and start converting!
-
-No installation or account required.
-
-Tip:
-This project is open-source—feel free to fork, improve, and share!
-
-Happy converting! 💸
-
+<h4 align="center" style="color:gold;">✨ Thank You ✨</h4> 
+<h3 align="center" style="color:#e74c3c;">Created By: Aniket Das</h3>
